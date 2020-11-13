@@ -6,4 +6,4 @@ Link: https://github.com/python/cpython/blob/3.9/Lib/turtle.py
 
 3. Run on a Command Line/ Integrated Development Environment
 
-![Pong Game Image](Pong-Game.png)
+![Pong Game Image](res/Pong-Game.png)
