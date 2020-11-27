@@ -1,3 +1,5 @@
+<h1>Directions to use:</h1>
+<p>
 1. Install Python
 Instructions: https://docs.python.org/3/using/mac.html
 
@@ -5,5 +7,5 @@ Instructions: https://docs.python.org/3/using/mac.html
 Link: https://github.com/python/cpython/blob/3.9/Lib/turtle.py
 
 3. Run on a Command Line/ Integrated Development Environment
-
+</p>
 ![Pong Game Image](res/Pong-Game.png)
