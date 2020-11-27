@@ -7,5 +7,6 @@ Instructions: https://docs.python.org/3/using/mac.html
 Link: https://github.com/python/cpython/blob/3.9/Lib/turtle.py
 
 3. Run on a Command Line/ Integrated Development Environment
-</p>
+
 ![Pong Game Image](res/Pong-Game.png)
+</p>
