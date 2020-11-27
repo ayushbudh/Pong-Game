@@ -1,5 +1,6 @@
 <h1>Directions to use:</h1>
 <p>
+<br>  
 1. Install Python
 Instructions: https://docs.python.org/3/using/mac.html
 
