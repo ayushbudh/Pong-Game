@@ -1,4 +1,4 @@
-<h1>Directions to use:</h1>
+<h1>Directions</h1>
 <p>
  
 1. Install Python
