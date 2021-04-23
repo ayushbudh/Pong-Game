@@ -8,7 +8,7 @@ Instructions: https://docs.python.org/3/using/mac.html</li>
 <li> Run on a Command Line/ Integrated Development Environment</li>
 <ol>
 </p>
-<img src ="res/Pong-Game.png" width="400px"/>
+<img src ="res/Pong-Game.png" width="900px"/>
 
 
 
